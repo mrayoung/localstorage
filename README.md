@@ -1,0 +1,2 @@
+# localstorage
+Clojurescript Local Storage
